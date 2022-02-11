@@ -1,8 +1,8 @@
 ### Hi there 👋
+//used https://rahuldkjain.github.io/gh-profile-readme-generator/ to make readme
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
